@@ -5557,6 +5557,7 @@ Iwatsu, TS80600,"""Storagescope"" 600MHz analog storage/scan converter"
 Iwatsu, TS81000,"""Storagescope"" 1GHz analog storage/scan converter"
 Iwatsu, V810,dual trace sampler plugin for SS8120
 Iwatsu, V860,dual trace sampler plugin for SS8120 1GHz
+James G. Biddle Co., "Calibation Resistance Standard 601147-1", "8-decade resistance standard 0.01Ω - 1MΩ"
 Keithley, 102B,decade isolation amplifier
 Keithley, 103A,Nanovolt Amplifier
 Keithley, 128,DMM 3.5 digit LCD handheld w/beeper
