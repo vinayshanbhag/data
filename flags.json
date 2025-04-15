@@ -2,1231 +2,1723 @@
   {
     "flag": "\ud83c\udde6\ud83c\uddeb",
     "country_name": "Afghanistan",
-    "country_iso_alpha2": "AF"
+    "country_iso_alpha2": "AF",
+    "utf8": "F0 9F 87 A6 F0 9F 87 AB",
+    "unicode": "U+1F1E6 U+1F1EB"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddfd",
     "country_name": "\u00c5land Islands",
-    "country_iso_alpha2": "AX"
+    "country_iso_alpha2": "AX",
+    "utf8": "F0 9F 87 A6 F0 9F 87 BD",
+    "unicode": "U+1F1E6 U+1F1FD"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddf1",
     "country_name": "Albania",
-    "country_iso_alpha2": "AL"
+    "country_iso_alpha2": "AL",
+    "utf8": "F0 9F 87 A6 F0 9F 87 B1",
+    "unicode": "U+1F1E6 U+1F1F1"
   },
   {
     "flag": "\ud83c\udde9\ud83c\uddff",
     "country_name": "Algeria",
-    "country_iso_alpha2": "DZ"
+    "country_iso_alpha2": "DZ",
+    "utf8": "F0 9F 87 A9 F0 9F 87 BF",
+    "unicode": "U+1F1E9 U+1F1FF"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddf8",
     "country_name": "American Samoa",
-    "country_iso_alpha2": "AS"
+    "country_iso_alpha2": "AS",
+    "utf8": "F0 9F 87 A6 F0 9F 87 B8",
+    "unicode": "U+1F1E6 U+1F1F8"
   },
   {
     "flag": "\ud83c\udde6\ud83c\udde9",
     "country_name": "Andorra",
-    "country_iso_alpha2": "AD"
+    "country_iso_alpha2": "AD",
+    "utf8": "F0 9F 87 A6 F0 9F 87 A9",
+    "unicode": "U+1F1E6 U+1F1E9"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddf4",
     "country_name": "Angola",
-    "country_iso_alpha2": "AO"
+    "country_iso_alpha2": "AO",
+    "utf8": "F0 9F 87 A6 F0 9F 87 B4",
+    "unicode": "U+1F1E6 U+1F1F4"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddee",
     "country_name": "Anguilla",
-    "country_iso_alpha2": "AI"
+    "country_iso_alpha2": "AI",
+    "utf8": "F0 9F 87 A6 F0 9F 87 AE",
+    "unicode": "U+1F1E6 U+1F1EE"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddf6",
     "country_name": "Antarctica",
-    "country_iso_alpha2": "AQ"
+    "country_iso_alpha2": "AQ",
+    "utf8": "F0 9F 87 A6 F0 9F 87 B6",
+    "unicode": "U+1F1E6 U+1F1F6"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddec",
     "country_name": "Antigua and Barbuda",
-    "country_iso_alpha2": "AG"
+    "country_iso_alpha2": "AG",
+    "utf8": "F0 9F 87 A6 F0 9F 87 AC",
+    "unicode": "U+1F1E6 U+1F1EC"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddf7",
     "country_name": "Argentina",
-    "country_iso_alpha2": "AR"
+    "country_iso_alpha2": "AR",
+    "utf8": "F0 9F 87 A6 F0 9F 87 B7",
+    "unicode": "U+1F1E6 U+1F1F7"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddf2",
     "country_name": "Armenia",
-    "country_iso_alpha2": "AM"
+    "country_iso_alpha2": "AM",
+    "utf8": "F0 9F 87 A6 F0 9F 87 B2",
+    "unicode": "U+1F1E6 U+1F1F2"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddfc",
     "country_name": "Aruba",
-    "country_iso_alpha2": "AW"
+    "country_iso_alpha2": "AW",
+    "utf8": "F0 9F 87 A6 F0 9F 87 BC",
+    "unicode": "U+1F1E6 U+1F1FC"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddfa",
     "country_name": "Australia",
-    "country_iso_alpha2": "AU"
+    "country_iso_alpha2": "AU",
+    "utf8": "F0 9F 87 A6 F0 9F 87 BA",
+    "unicode": "U+1F1E6 U+1F1FA"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddf9",
     "country_name": "Austria",
-    "country_iso_alpha2": "AT"
+    "country_iso_alpha2": "AT",
+    "utf8": "F0 9F 87 A6 F0 9F 87 B9",
+    "unicode": "U+1F1E6 U+1F1F9"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddff",
     "country_name": "Azerbaijan",
-    "country_iso_alpha2": "AZ"
+    "country_iso_alpha2": "AZ",
+    "utf8": "F0 9F 87 A6 F0 9F 87 BF",
+    "unicode": "U+1F1E6 U+1F1FF"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddf8",
     "country_name": "Bahamas",
-    "country_iso_alpha2": "BS"
+    "country_iso_alpha2": "BS",
+    "utf8": "F0 9F 87 A7 F0 9F 87 B8",
+    "unicode": "U+1F1E7 U+1F1F8"
   },
   {
     "flag": "\ud83c\udde7\ud83c\udded",
     "country_name": "Bahrain",
-    "country_iso_alpha2": "BH"
+    "country_iso_alpha2": "BH",
+    "utf8": "F0 9F 87 A7 F0 9F 87 AD",
+    "unicode": "U+1F1E7 U+1F1ED"
   },
   {
     "flag": "\ud83c\udde7\ud83c\udde9",
     "country_name": "Bangladesh",
-    "country_iso_alpha2": "BD"
+    "country_iso_alpha2": "BD",
+    "utf8": "F0 9F 87 A7 F0 9F 87 A9",
+    "unicode": "U+1F1E7 U+1F1E9"
   },
   {
     "flag": "\ud83c\udde7\ud83c\udde7",
     "country_name": "Barbados",
-    "country_iso_alpha2": "BB"
+    "country_iso_alpha2": "BB",
+    "utf8": "F0 9F 87 A7 F0 9F 87 A7",
+    "unicode": "U+1F1E7 U+1F1E7"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddfe",
     "country_name": "Belarus",
-    "country_iso_alpha2": "BY"
+    "country_iso_alpha2": "BY",
+    "utf8": "F0 9F 87 A7 F0 9F 87 BE",
+    "unicode": "U+1F1E7 U+1F1FE"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddea",
     "country_name": "Belgium",
-    "country_iso_alpha2": "BE"
+    "country_iso_alpha2": "BE",
+    "utf8": "F0 9F 87 A7 F0 9F 87 AA",
+    "unicode": "U+1F1E7 U+1F1EA"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddff",
     "country_name": "Belize",
-    "country_iso_alpha2": "BZ"
+    "country_iso_alpha2": "BZ",
+    "utf8": "F0 9F 87 A7 F0 9F 87 BF",
+    "unicode": "U+1F1E7 U+1F1FF"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddef",
     "country_name": "Benin",
-    "country_iso_alpha2": "BJ"
+    "country_iso_alpha2": "BJ",
+    "utf8": "F0 9F 87 A7 F0 9F 87 AF",
+    "unicode": "U+1F1E7 U+1F1EF"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddf2",
     "country_name": "Bermuda",
-    "country_iso_alpha2": "BM"
+    "country_iso_alpha2": "BM",
+    "utf8": "F0 9F 87 A7 F0 9F 87 B2",
+    "unicode": "U+1F1E7 U+1F1F2"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddf9",
     "country_name": "Bhutan",
-    "country_iso_alpha2": "BT"
+    "country_iso_alpha2": "BT",
+    "utf8": "F0 9F 87 A7 F0 9F 87 B9",
+    "unicode": "U+1F1E7 U+1F1F9"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddf4",
     "country_name": "Bolivia, Plurinational State of bolivia",
-    "country_iso_alpha2": "BO"
+    "country_iso_alpha2": "BO",
+    "utf8": "F0 9F 87 A7 F0 9F 87 B4",
+    "unicode": "U+1F1E7 U+1F1F4"
   },
   {
     "flag": "\ud83c\udde7\ud83c\udde6",
     "country_name": "Bosnia and Herzegovina",
-    "country_iso_alpha2": "BA"
+    "country_iso_alpha2": "BA",
+    "utf8": "F0 9F 87 A7 F0 9F 87 A6",
+    "unicode": "U+1F1E7 U+1F1E6"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddfc",
     "country_name": "Botswana",
-    "country_iso_alpha2": "BW"
+    "country_iso_alpha2": "BW",
+    "utf8": "F0 9F 87 A7 F0 9F 87 BC",
+    "unicode": "U+1F1E7 U+1F1FC"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddfb",
     "country_name": "Bouvet Island",
-    "country_iso_alpha2": "BV"
+    "country_iso_alpha2": "BV",
+    "utf8": "F0 9F 87 A7 F0 9F 87 BB",
+    "unicode": "U+1F1E7 U+1F1FB"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddf7",
     "country_name": "Brazil",
-    "country_iso_alpha2": "BR"
+    "country_iso_alpha2": "BR",
+    "utf8": "F0 9F 87 A7 F0 9F 87 B7",
+    "unicode": "U+1F1E7 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf4",
     "country_name": "British Indian Ocean Territory",
-    "country_iso_alpha2": "IO"
+    "country_iso_alpha2": "IO",
+    "utf8": "F0 9F 87 AE F0 9F 87 B4",
+    "unicode": "U+1F1EE U+1F1F4"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddf3",
     "country_name": "Brunei Darussalam",
-    "country_iso_alpha2": "BN"
+    "country_iso_alpha2": "BN",
+    "utf8": "F0 9F 87 A7 F0 9F 87 B3",
+    "unicode": "U+1F1E7 U+1F1F3"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddec",
     "country_name": "Bulgaria",
-    "country_iso_alpha2": "BG"
+    "country_iso_alpha2": "BG",
+    "utf8": "F0 9F 87 A7 F0 9F 87 AC",
+    "unicode": "U+1F1E7 U+1F1EC"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddeb",
     "country_name": "Burkina Faso",
-    "country_iso_alpha2": "BF"
+    "country_iso_alpha2": "BF",
+    "utf8": "F0 9F 87 A7 F0 9F 87 AB",
+    "unicode": "U+1F1E7 U+1F1EB"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddee",
     "country_name": "Burundi",
-    "country_iso_alpha2": "BI"
+    "country_iso_alpha2": "BI",
+    "utf8": "F0 9F 87 A7 F0 9F 87 AE",
+    "unicode": "U+1F1E7 U+1F1EE"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\udded",
     "country_name": "Cambodia",
-    "country_iso_alpha2": "KH"
+    "country_iso_alpha2": "KH",
+    "utf8": "F0 9F 87 B0 F0 9F 87 AD",
+    "unicode": "U+1F1F0 U+1F1ED"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddf2",
     "country_name": "Cameroon",
-    "country_iso_alpha2": "CM"
+    "country_iso_alpha2": "CM",
+    "utf8": "F0 9F 87 A8 F0 9F 87 B2",
+    "unicode": "U+1F1E8 U+1F1F2"
   },
   {
     "flag": "\ud83c\udde8\ud83c\udde6",
     "country_name": "Canada",
-    "country_iso_alpha2": "CA"
+    "country_iso_alpha2": "CA",
+    "utf8": "F0 9F 87 A8 F0 9F 87 A6",
+    "unicode": "U+1F1E8 U+1F1E6"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddfb",
     "country_name": "Cape Verde",
-    "country_iso_alpha2": "CV"
+    "country_iso_alpha2": "CV",
+    "utf8": "F0 9F 87 A8 F0 9F 87 BB",
+    "unicode": "U+1F1E8 U+1F1FB"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddfe",
     "country_name": "Cayman Islands",
-    "country_iso_alpha2": "KY"
+    "country_iso_alpha2": "KY",
+    "utf8": "F0 9F 87 B0 F0 9F 87 BE",
+    "unicode": "U+1F1F0 U+1F1FE"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddeb",
     "country_name": "Central African Republic",
-    "country_iso_alpha2": "CF"
+    "country_iso_alpha2": "CF",
+    "utf8": "F0 9F 87 A8 F0 9F 87 AB",
+    "unicode": "U+1F1E8 U+1F1EB"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\udde9",
     "country_name": "Chad",
-    "country_iso_alpha2": "TD"
+    "country_iso_alpha2": "TD",
+    "utf8": "F0 9F 87 B9 F0 9F 87 A9",
+    "unicode": "U+1F1F9 U+1F1E9"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddf1",
     "country_name": "Chile",
-    "country_iso_alpha2": "CL"
+    "country_iso_alpha2": "CL",
+    "utf8": "F0 9F 87 A8 F0 9F 87 B1",
+    "unicode": "U+1F1E8 U+1F1F1"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddf3",
     "country_name": "China",
-    "country_iso_alpha2": "CN"
+    "country_iso_alpha2": "CN",
+    "utf8": "F0 9F 87 A8 F0 9F 87 B3",
+    "unicode": "U+1F1E8 U+1F1F3"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddfd",
     "country_name": "Christmas Island",
-    "country_iso_alpha2": "CX"
+    "country_iso_alpha2": "CX",
+    "utf8": "F0 9F 87 A8 F0 9F 87 BD",
+    "unicode": "U+1F1E8 U+1F1FD"
   },
   {
     "flag": "\ud83c\udde8\ud83c\udde8",
     "country_name": "Cocos (Keeling) Islands",
-    "country_iso_alpha2": "CC"
+    "country_iso_alpha2": "CC",
+    "utf8": "F0 9F 87 A8 F0 9F 87 A8",
+    "unicode": "U+1F1E8 U+1F1E8"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddf4",
     "country_name": "Colombia",
-    "country_iso_alpha2": "CO"
+    "country_iso_alpha2": "CO",
+    "utf8": "F0 9F 87 A8 F0 9F 87 B4",
+    "unicode": "U+1F1E8 U+1F1F4"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddf2",
     "country_name": "Comoros",
-    "country_iso_alpha2": "KM"
+    "country_iso_alpha2": "KM",
+    "utf8": "F0 9F 87 B0 F0 9F 87 B2",
+    "unicode": "U+1F1F0 U+1F1F2"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddec",
     "country_name": "Congo",
-    "country_iso_alpha2": "CG"
+    "country_iso_alpha2": "CG",
+    "utf8": "F0 9F 87 A8 F0 9F 87 AC",
+    "unicode": "U+1F1E8 U+1F1EC"
   },
   {
     "flag": "\ud83c\udde8\ud83c\udde9",
     "country_name": "Congo, The Democratic Republic of the Congo",
-    "country_iso_alpha2": "CD"
+    "country_iso_alpha2": "CD",
+    "utf8": "F0 9F 87 A8 F0 9F 87 A9",
+    "unicode": "U+1F1E8 U+1F1E9"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddf0",
     "country_name": "Cook Islands",
-    "country_iso_alpha2": "CK"
+    "country_iso_alpha2": "CK",
+    "utf8": "F0 9F 87 A8 F0 9F 87 B0",
+    "unicode": "U+1F1E8 U+1F1F0"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddf7",
     "country_name": "Costa Rica",
-    "country_iso_alpha2": "CR"
+    "country_iso_alpha2": "CR",
+    "utf8": "F0 9F 87 A8 F0 9F 87 B7",
+    "unicode": "U+1F1E8 U+1F1F7"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddee",
     "country_name": "Cote d'Ivoire",
-    "country_iso_alpha2": "CI"
+    "country_iso_alpha2": "CI",
+    "utf8": "F0 9F 87 A8 F0 9F 87 AE",
+    "unicode": "U+1F1E8 U+1F1EE"
   },
   {
     "flag": "\ud83c\udded\ud83c\uddf7",
     "country_name": "Croatia",
-    "country_iso_alpha2": "HR"
+    "country_iso_alpha2": "HR",
+    "utf8": "F0 9F 87 AD F0 9F 87 B7",
+    "unicode": "U+1F1ED U+1F1F7"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddfa",
     "country_name": "Cuba",
-    "country_iso_alpha2": "CU"
+    "country_iso_alpha2": "CU",
+    "utf8": "F0 9F 87 A8 F0 9F 87 BA",
+    "unicode": "U+1F1E8 U+1F1FA"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddfe",
     "country_name": "Cyprus",
-    "country_iso_alpha2": "CY"
+    "country_iso_alpha2": "CY",
+    "utf8": "F0 9F 87 A8 F0 9F 87 BE",
+    "unicode": "U+1F1E8 U+1F1FE"
   },
   {
     "flag": "\ud83c\udde8\ud83c\uddff",
     "country_name": "Czech Republic",
-    "country_iso_alpha2": "CZ"
+    "country_iso_alpha2": "CZ",
+    "utf8": "F0 9F 87 A8 F0 9F 87 BF",
+    "unicode": "U+1F1E8 U+1F1FF"
   },
   {
     "flag": "\ud83c\udde9\ud83c\uddf0",
     "country_name": "Denmark",
-    "country_iso_alpha2": "DK"
+    "country_iso_alpha2": "DK",
+    "utf8": "F0 9F 87 A9 F0 9F 87 B0",
+    "unicode": "U+1F1E9 U+1F1F0"
   },
   {
     "flag": "\ud83c\udde9\ud83c\uddef",
     "country_name": "Djibouti",
-    "country_iso_alpha2": "DJ"
+    "country_iso_alpha2": "DJ",
+    "utf8": "F0 9F 87 A9 F0 9F 87 AF",
+    "unicode": "U+1F1E9 U+1F1EF"
   },
   {
     "flag": "\ud83c\udde9\ud83c\uddf2",
     "country_name": "Dominica",
-    "country_iso_alpha2": "DM"
+    "country_iso_alpha2": "DM",
+    "utf8": "F0 9F 87 A9 F0 9F 87 B2",
+    "unicode": "U+1F1E9 U+1F1F2"
   },
   {
     "flag": "\ud83c\udde9\ud83c\uddf4",
     "country_name": "Dominican Republic",
-    "country_iso_alpha2": "DO"
+    "country_iso_alpha2": "DO",
+    "utf8": "F0 9F 87 A9 F0 9F 87 B4",
+    "unicode": "U+1F1E9 U+1F1F4"
   },
   {
     "flag": "\ud83c\uddea\ud83c\udde8",
     "country_name": "Ecuador",
-    "country_iso_alpha2": "EC"
+    "country_iso_alpha2": "EC",
+    "utf8": "F0 9F 87 AA F0 9F 87 A8",
+    "unicode": "U+1F1EA U+1F1E8"
   },
   {
     "flag": "\ud83c\uddea\ud83c\uddec",
     "country_name": "Egypt",
-    "country_iso_alpha2": "EG"
+    "country_iso_alpha2": "EG",
+    "utf8": "F0 9F 87 AA F0 9F 87 AC",
+    "unicode": "U+1F1EA U+1F1EC"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddfb",
     "country_name": "El Salvador",
-    "country_iso_alpha2": "SV"
+    "country_iso_alpha2": "SV",
+    "utf8": "F0 9F 87 B8 F0 9F 87 BB",
+    "unicode": "U+1F1F8 U+1F1FB"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf6",
     "country_name": "Equatorial Guinea",
-    "country_iso_alpha2": "GQ"
+    "country_iso_alpha2": "GQ",
+    "utf8": "F0 9F 87 AC F0 9F 87 B6",
+    "unicode": "U+1F1EC U+1F1F6"
   },
   {
     "flag": "\ud83c\uddea\ud83c\uddf7",
     "country_name": "Eritrea",
-    "country_iso_alpha2": "ER"
+    "country_iso_alpha2": "ER",
+    "utf8": "F0 9F 87 AA F0 9F 87 B7",
+    "unicode": "U+1F1EA U+1F1F7"
   },
   {
     "flag": "\ud83c\uddea\ud83c\uddea",
     "country_name": "Estonia",
-    "country_iso_alpha2": "EE"
+    "country_iso_alpha2": "EE",
+    "utf8": "F0 9F 87 AA F0 9F 87 AA",
+    "unicode": "U+1F1EA U+1F1EA"
   },
   {
     "flag": "\ud83c\uddea\ud83c\uddf9",
     "country_name": "Ethiopia",
-    "country_iso_alpha2": "ET"
+    "country_iso_alpha2": "ET",
+    "utf8": "F0 9F 87 AA F0 9F 87 B9",
+    "unicode": "U+1F1EA U+1F1F9"
   },
   {
     "flag": "\ud83c\uddeb\ud83c\uddf0",
     "country_name": "Falkland Islands (Malvinas)",
-    "country_iso_alpha2": "FK"
+    "country_iso_alpha2": "FK",
+    "utf8": "F0 9F 87 AB F0 9F 87 B0",
+    "unicode": "U+1F1EB U+1F1F0"
   },
   {
     "flag": "\ud83c\uddeb\ud83c\uddf4",
     "country_name": "Faroe Islands",
-    "country_iso_alpha2": "FO"
+    "country_iso_alpha2": "FO",
+    "utf8": "F0 9F 87 AB F0 9F 87 B4",
+    "unicode": "U+1F1EB U+1F1F4"
   },
   {
     "flag": "\ud83c\uddeb\ud83c\uddef",
     "country_name": "Fiji",
-    "country_iso_alpha2": "FJ"
+    "country_iso_alpha2": "FJ",
+    "utf8": "F0 9F 87 AB F0 9F 87 AF",
+    "unicode": "U+1F1EB U+1F1EF"
   },
   {
     "flag": "\ud83c\uddeb\ud83c\uddee",
     "country_name": "Finland",
-    "country_iso_alpha2": "FI"
+    "country_iso_alpha2": "FI",
+    "utf8": "F0 9F 87 AB F0 9F 87 AE",
+    "unicode": "U+1F1EB U+1F1EE"
   },
   {
     "flag": "\ud83c\uddeb\ud83c\uddf7",
     "country_name": "France",
-    "country_iso_alpha2": "FR"
+    "country_iso_alpha2": "FR",
+    "utf8": "F0 9F 87 AB F0 9F 87 B7",
+    "unicode": "U+1F1EB U+1F1F7"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddeb",
     "country_name": "French Guiana",
-    "country_iso_alpha2": "GF"
+    "country_iso_alpha2": "GF",
+    "utf8": "F0 9F 87 AC F0 9F 87 AB",
+    "unicode": "U+1F1EC U+1F1EB"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddeb",
     "country_name": "French Polynesia",
-    "country_iso_alpha2": "PF"
+    "country_iso_alpha2": "PF",
+    "utf8": "F0 9F 87 B5 F0 9F 87 AB",
+    "unicode": "U+1F1F5 U+1F1EB"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddeb",
     "country_name": "French Southern Territories",
-    "country_iso_alpha2": "TF"
+    "country_iso_alpha2": "TF",
+    "utf8": "F0 9F 87 B9 F0 9F 87 AB",
+    "unicode": "U+1F1F9 U+1F1EB"
   },
   {
     "flag": "\ud83c\uddec\ud83c\udde6",
     "country_name": "Gabon",
-    "country_iso_alpha2": "GA"
+    "country_iso_alpha2": "GA",
+    "utf8": "F0 9F 87 AC F0 9F 87 A6",
+    "unicode": "U+1F1EC U+1F1E6"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf2",
     "country_name": "Gambia",
-    "country_iso_alpha2": "GM"
+    "country_iso_alpha2": "GM",
+    "utf8": "F0 9F 87 AC F0 9F 87 B2",
+    "unicode": "U+1F1EC U+1F1F2"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddea",
     "country_name": "Georgia",
-    "country_iso_alpha2": "GE"
+    "country_iso_alpha2": "GE",
+    "utf8": "F0 9F 87 AC F0 9F 87 AA",
+    "unicode": "U+1F1EC U+1F1EA"
   },
   {
     "flag": "\ud83c\udde9\ud83c\uddea",
     "country_name": "Germany",
-    "country_iso_alpha2": "DE"
+    "country_iso_alpha2": "DE",
+    "utf8": "F0 9F 87 A9 F0 9F 87 AA",
+    "unicode": "U+1F1E9 U+1F1EA"
   },
   {
     "flag": "\ud83c\uddec\ud83c\udded",
     "country_name": "Ghana",
-    "country_iso_alpha2": "GH"
+    "country_iso_alpha2": "GH",
+    "utf8": "F0 9F 87 AC F0 9F 87 AD",
+    "unicode": "U+1F1EC U+1F1ED"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddee",
     "country_name": "Gibraltar",
-    "country_iso_alpha2": "GI"
+    "country_iso_alpha2": "GI",
+    "utf8": "F0 9F 87 AC F0 9F 87 AE",
+    "unicode": "U+1F1EC U+1F1EE"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf7",
     "country_name": "Greece",
-    "country_iso_alpha2": "GR"
+    "country_iso_alpha2": "GR",
+    "utf8": "F0 9F 87 AC F0 9F 87 B7",
+    "unicode": "U+1F1EC U+1F1F7"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf1",
     "country_name": "Greenland",
-    "country_iso_alpha2": "GL"
+    "country_iso_alpha2": "GL",
+    "utf8": "F0 9F 87 AC F0 9F 87 B1",
+    "unicode": "U+1F1EC U+1F1F1"
   },
   {
     "flag": "\ud83c\uddec\ud83c\udde9",
     "country_name": "Grenada",
-    "country_iso_alpha2": "GD"
+    "country_iso_alpha2": "GD",
+    "utf8": "F0 9F 87 AC F0 9F 87 A9",
+    "unicode": "U+1F1EC U+1F1E9"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf5",
     "country_name": "Guadeloupe",
-    "country_iso_alpha2": "GP"
+    "country_iso_alpha2": "GP",
+    "utf8": "F0 9F 87 AC F0 9F 87 B5",
+    "unicode": "U+1F1EC U+1F1F5"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddfa",
     "country_name": "Guam",
-    "country_iso_alpha2": "GU"
+    "country_iso_alpha2": "GU",
+    "utf8": "F0 9F 87 AC F0 9F 87 BA",
+    "unicode": "U+1F1EC U+1F1FA"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf9",
     "country_name": "Guatemala",
-    "country_iso_alpha2": "GT"
+    "country_iso_alpha2": "GT",
+    "utf8": "F0 9F 87 AC F0 9F 87 B9",
+    "unicode": "U+1F1EC U+1F1F9"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddec",
     "country_name": "Guernsey",
-    "country_iso_alpha2": "GG"
+    "country_iso_alpha2": "GG",
+    "utf8": "F0 9F 87 AC F0 9F 87 AC",
+    "unicode": "U+1F1EC U+1F1EC"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf3",
     "country_name": "Guinea",
-    "country_iso_alpha2": "GN"
+    "country_iso_alpha2": "GN",
+    "utf8": "F0 9F 87 AC F0 9F 87 B3",
+    "unicode": "U+1F1EC U+1F1F3"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddfc",
     "country_name": "Guinea-Bissau",
-    "country_iso_alpha2": "GW"
+    "country_iso_alpha2": "GW",
+    "utf8": "F0 9F 87 AC F0 9F 87 BC",
+    "unicode": "U+1F1EC U+1F1FC"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddfe",
     "country_name": "Guyana",
-    "country_iso_alpha2": "GY"
+    "country_iso_alpha2": "GY",
+    "utf8": "F0 9F 87 AC F0 9F 87 BE",
+    "unicode": "U+1F1EC U+1F1FE"
   },
   {
     "flag": "\ud83c\udded\ud83c\uddf9",
     "country_name": "Haiti",
-    "country_iso_alpha2": "HT"
+    "country_iso_alpha2": "HT",
+    "utf8": "F0 9F 87 AD F0 9F 87 B9",
+    "unicode": "U+1F1ED U+1F1F9"
   },
   {
     "flag": "\ud83c\udded\ud83c\uddf2",
     "country_name": "Heard Island and Mcdonald Islands",
-    "country_iso_alpha2": "HM"
+    "country_iso_alpha2": "HM",
+    "utf8": "F0 9F 87 AD F0 9F 87 B2",
+    "unicode": "U+1F1ED U+1F1F2"
   },
   {
     "flag": "\ud83c\uddfb\ud83c\udde6",
     "country_name": "Holy See (Vatican City State)",
-    "country_iso_alpha2": "VA"
+    "country_iso_alpha2": "VA",
+    "utf8": "F0 9F 87 BB F0 9F 87 A6",
+    "unicode": "U+1F1FB U+1F1E6"
   },
   {
     "flag": "\ud83c\udded\ud83c\uddf3",
     "country_name": "Honduras",
-    "country_iso_alpha2": "HN"
+    "country_iso_alpha2": "HN",
+    "utf8": "F0 9F 87 AD F0 9F 87 B3",
+    "unicode": "U+1F1ED U+1F1F3"
   },
   {
     "flag": "\ud83c\udded\ud83c\uddf0",
     "country_name": "Hong Kong",
-    "country_iso_alpha2": "HK"
+    "country_iso_alpha2": "HK",
+    "utf8": "F0 9F 87 AD F0 9F 87 B0",
+    "unicode": "U+1F1ED U+1F1F0"
   },
   {
     "flag": "\ud83c\udded\ud83c\uddfa",
     "country_name": "Hungary",
-    "country_iso_alpha2": "HU"
+    "country_iso_alpha2": "HU",
+    "utf8": "F0 9F 87 AD F0 9F 87 BA",
+    "unicode": "U+1F1ED U+1F1FA"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf8",
     "country_name": "Iceland",
-    "country_iso_alpha2": "IS"
+    "country_iso_alpha2": "IS",
+    "utf8": "F0 9F 87 AE F0 9F 87 B8",
+    "unicode": "U+1F1EE U+1F1F8"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf3",
     "country_name": "India",
-    "country_iso_alpha2": "IN"
+    "country_iso_alpha2": "IN",
+    "utf8": "F0 9F 87 AE F0 9F 87 B3",
+    "unicode": "U+1F1EE U+1F1F3"
   },
   {
     "flag": "\ud83c\uddee\ud83c\udde9",
     "country_name": "Indonesia",
-    "country_iso_alpha2": "ID"
+    "country_iso_alpha2": "ID",
+    "utf8": "F0 9F 87 AE F0 9F 87 A9",
+    "unicode": "U+1F1EE U+1F1E9"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf7",
     "country_name": "Iran, Islamic Republic of Persian Gulf",
-    "country_iso_alpha2": "IR"
+    "country_iso_alpha2": "IR",
+    "utf8": "F0 9F 87 AE F0 9F 87 B7",
+    "unicode": "U+1F1EE U+1F1F7"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf6",
     "country_name": "Iraq",
-    "country_iso_alpha2": "IQ"
+    "country_iso_alpha2": "IQ",
+    "utf8": "F0 9F 87 AE F0 9F 87 B6",
+    "unicode": "U+1F1EE U+1F1F6"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddea",
     "country_name": "Ireland",
-    "country_iso_alpha2": "IE"
+    "country_iso_alpha2": "IE",
+    "utf8": "F0 9F 87 AE F0 9F 87 AA",
+    "unicode": "U+1F1EE U+1F1EA"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf2",
     "country_name": "Isle of Man",
-    "country_iso_alpha2": "IM"
+    "country_iso_alpha2": "IM",
+    "utf8": "F0 9F 87 AE F0 9F 87 B2",
+    "unicode": "U+1F1EE U+1F1F2"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf1",
     "country_name": "Israel",
-    "country_iso_alpha2": "IL"
+    "country_iso_alpha2": "IL",
+    "utf8": "F0 9F 87 AE F0 9F 87 B1",
+    "unicode": "U+1F1EE U+1F1F1"
   },
   {
     "flag": "\ud83c\uddee\ud83c\uddf9",
     "country_name": "Italy",
-    "country_iso_alpha2": "IT"
+    "country_iso_alpha2": "IT",
+    "utf8": "F0 9F 87 AE F0 9F 87 B9",
+    "unicode": "U+1F1EE U+1F1F9"
   },
   {
     "flag": "\ud83c\uddef\ud83c\uddf2",
     "country_name": "Jamaica",
-    "country_iso_alpha2": "JM"
+    "country_iso_alpha2": "JM",
+    "utf8": "F0 9F 87 AF F0 9F 87 B2",
+    "unicode": "U+1F1EF U+1F1F2"
   },
   {
     "flag": "\ud83c\uddef\ud83c\uddf5",
     "country_name": "Japan",
-    "country_iso_alpha2": "JP"
+    "country_iso_alpha2": "JP",
+    "utf8": "F0 9F 87 AF F0 9F 87 B5",
+    "unicode": "U+1F1EF U+1F1F5"
   },
   {
     "flag": "\ud83c\uddef\ud83c\uddea",
     "country_name": "Jersey",
-    "country_iso_alpha2": "JE"
+    "country_iso_alpha2": "JE",
+    "utf8": "F0 9F 87 AF F0 9F 87 AA",
+    "unicode": "U+1F1EF U+1F1EA"
   },
   {
     "flag": "\ud83c\uddef\ud83c\uddf4",
     "country_name": "Jordan",
-    "country_iso_alpha2": "JO"
+    "country_iso_alpha2": "JO",
+    "utf8": "F0 9F 87 AF F0 9F 87 B4",
+    "unicode": "U+1F1EF U+1F1F4"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddff",
     "country_name": "Kazakhstan",
-    "country_iso_alpha2": "KZ"
+    "country_iso_alpha2": "KZ",
+    "utf8": "F0 9F 87 B0 F0 9F 87 BF",
+    "unicode": "U+1F1F0 U+1F1FF"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddea",
     "country_name": "Kenya",
-    "country_iso_alpha2": "KE"
+    "country_iso_alpha2": "KE",
+    "utf8": "F0 9F 87 B0 F0 9F 87 AA",
+    "unicode": "U+1F1F0 U+1F1EA"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddee",
     "country_name": "Kiribati",
-    "country_iso_alpha2": "KI"
+    "country_iso_alpha2": "KI",
+    "utf8": "F0 9F 87 B0 F0 9F 87 AE",
+    "unicode": "U+1F1F0 U+1F1EE"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddf5",
     "country_name": "Korea, Democratic People's Republic of Korea",
-    "country_iso_alpha2": "KP"
+    "country_iso_alpha2": "KP",
+    "utf8": "F0 9F 87 B0 F0 9F 87 B5",
+    "unicode": "U+1F1F0 U+1F1F5"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddf7",
     "country_name": "Korea, Republic of South Korea",
-    "country_iso_alpha2": "KR"
+    "country_iso_alpha2": "KR",
+    "utf8": "F0 9F 87 B0 F0 9F 87 B7",
+    "unicode": "U+1F1F0 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddfd\ud83c\uddf0",
     "country_name": "Kosovo",
-    "country_iso_alpha2": "XK"
+    "country_iso_alpha2": "XK",
+    "utf8": "F0 9F 87 BD F0 9F 87 B0",
+    "unicode": "U+1F1FD U+1F1F0"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddfc",
     "country_name": "Kuwait",
-    "country_iso_alpha2": "KW"
+    "country_iso_alpha2": "KW",
+    "utf8": "F0 9F 87 B0 F0 9F 87 BC",
+    "unicode": "U+1F1F0 U+1F1FC"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddec",
     "country_name": "Kyrgyzstan",
-    "country_iso_alpha2": "KG"
+    "country_iso_alpha2": "KG",
+    "utf8": "F0 9F 87 B0 F0 9F 87 AC",
+    "unicode": "U+1F1F0 U+1F1EC"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\udde6",
     "country_name": "Laos",
-    "country_iso_alpha2": "LA"
+    "country_iso_alpha2": "LA",
+    "utf8": "F0 9F 87 B1 F0 9F 87 A6",
+    "unicode": "U+1F1F1 U+1F1E6"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddfb",
     "country_name": "Latvia",
-    "country_iso_alpha2": "LV"
+    "country_iso_alpha2": "LV",
+    "utf8": "F0 9F 87 B1 F0 9F 87 BB",
+    "unicode": "U+1F1F1 U+1F1FB"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\udde7",
     "country_name": "Lebanon",
-    "country_iso_alpha2": "LB"
+    "country_iso_alpha2": "LB",
+    "utf8": "F0 9F 87 B1 F0 9F 87 A7",
+    "unicode": "U+1F1F1 U+1F1E7"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddf8",
     "country_name": "Lesotho",
-    "country_iso_alpha2": "LS"
+    "country_iso_alpha2": "LS",
+    "utf8": "F0 9F 87 B1 F0 9F 87 B8",
+    "unicode": "U+1F1F1 U+1F1F8"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddf7",
     "country_name": "Liberia",
-    "country_iso_alpha2": "LR"
+    "country_iso_alpha2": "LR",
+    "utf8": "F0 9F 87 B1 F0 9F 87 B7",
+    "unicode": "U+1F1F1 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddfe",
     "country_name": "Libyan Arab Jamahiriya",
-    "country_iso_alpha2": "LY"
+    "country_iso_alpha2": "LY",
+    "utf8": "F0 9F 87 B1 F0 9F 87 BE",
+    "unicode": "U+1F1F1 U+1F1FE"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddee",
     "country_name": "Liechtenstein",
-    "country_iso_alpha2": "LI"
+    "country_iso_alpha2": "LI",
+    "utf8": "F0 9F 87 B1 F0 9F 87 AE",
+    "unicode": "U+1F1F1 U+1F1EE"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddf9",
     "country_name": "Lithuania",
-    "country_iso_alpha2": "LT"
+    "country_iso_alpha2": "LT",
+    "utf8": "F0 9F 87 B1 F0 9F 87 B9",
+    "unicode": "U+1F1F1 U+1F1F9"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddfa",
     "country_name": "Luxembourg",
-    "country_iso_alpha2": "LU"
+    "country_iso_alpha2": "LU",
+    "utf8": "F0 9F 87 B1 F0 9F 87 BA",
+    "unicode": "U+1F1F1 U+1F1FA"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf4",
     "country_name": "Macao",
-    "country_iso_alpha2": "MO"
+    "country_iso_alpha2": "MO",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B4",
+    "unicode": "U+1F1F2 U+1F1F4"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf0",
     "country_name": "Macedonia",
-    "country_iso_alpha2": "MK"
+    "country_iso_alpha2": "MK",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B0",
+    "unicode": "U+1F1F2 U+1F1F0"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddec",
     "country_name": "Madagascar",
-    "country_iso_alpha2": "MG"
+    "country_iso_alpha2": "MG",
+    "utf8": "F0 9F 87 B2 F0 9F 87 AC",
+    "unicode": "U+1F1F2 U+1F1EC"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddfc",
     "country_name": "Malawi",
-    "country_iso_alpha2": "MW"
+    "country_iso_alpha2": "MW",
+    "utf8": "F0 9F 87 B2 F0 9F 87 BC",
+    "unicode": "U+1F1F2 U+1F1FC"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddfe",
     "country_name": "Malaysia",
-    "country_iso_alpha2": "MY"
+    "country_iso_alpha2": "MY",
+    "utf8": "F0 9F 87 B2 F0 9F 87 BE",
+    "unicode": "U+1F1F2 U+1F1FE"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddfb",
     "country_name": "Maldives",
-    "country_iso_alpha2": "MV"
+    "country_iso_alpha2": "MV",
+    "utf8": "F0 9F 87 B2 F0 9F 87 BB",
+    "unicode": "U+1F1F2 U+1F1FB"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf1",
     "country_name": "Mali",
-    "country_iso_alpha2": "ML"
+    "country_iso_alpha2": "ML",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B1",
+    "unicode": "U+1F1F2 U+1F1F1"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf9",
     "country_name": "Malta",
-    "country_iso_alpha2": "MT"
+    "country_iso_alpha2": "MT",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B9",
+    "unicode": "U+1F1F2 U+1F1F9"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\udded",
     "country_name": "Marshall Islands",
-    "country_iso_alpha2": "MH"
+    "country_iso_alpha2": "MH",
+    "utf8": "F0 9F 87 B2 F0 9F 87 AD",
+    "unicode": "U+1F1F2 U+1F1ED"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf6",
     "country_name": "Martinique",
-    "country_iso_alpha2": "MQ"
+    "country_iso_alpha2": "MQ",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B6",
+    "unicode": "U+1F1F2 U+1F1F6"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf7",
     "country_name": "Mauritania",
-    "country_iso_alpha2": "MR"
+    "country_iso_alpha2": "MR",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B7",
+    "unicode": "U+1F1F2 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddfa",
     "country_name": "Mauritius",
-    "country_iso_alpha2": "MU"
+    "country_iso_alpha2": "MU",
+    "utf8": "F0 9F 87 B2 F0 9F 87 BA",
+    "unicode": "U+1F1F2 U+1F1FA"
   },
   {
     "flag": "\ud83c\uddfe\ud83c\uddf9",
     "country_name": "Mayotte",
-    "country_iso_alpha2": "YT"
+    "country_iso_alpha2": "YT",
+    "utf8": "F0 9F 87 BE F0 9F 87 B9",
+    "unicode": "U+1F1FE U+1F1F9"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddfd",
     "country_name": "Mexico",
-    "country_iso_alpha2": "MX"
+    "country_iso_alpha2": "MX",
+    "utf8": "F0 9F 87 B2 F0 9F 87 BD",
+    "unicode": "U+1F1F2 U+1F1FD"
   },
   {
     "flag": "\ud83c\uddeb\ud83c\uddf2",
     "country_name": "Micronesia, Federated States of Micronesia",
-    "country_iso_alpha2": "FM"
+    "country_iso_alpha2": "FM",
+    "utf8": "F0 9F 87 AB F0 9F 87 B2",
+    "unicode": "U+1F1EB U+1F1F2"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\udde9",
     "country_name": "Moldova",
-    "country_iso_alpha2": "MD"
+    "country_iso_alpha2": "MD",
+    "utf8": "F0 9F 87 B2 F0 9F 87 A9",
+    "unicode": "U+1F1F2 U+1F1E9"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\udde8",
     "country_name": "Monaco",
-    "country_iso_alpha2": "MC"
+    "country_iso_alpha2": "MC",
+    "utf8": "F0 9F 87 B2 F0 9F 87 A8",
+    "unicode": "U+1F1F2 U+1F1E8"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf3",
     "country_name": "Mongolia",
-    "country_iso_alpha2": "MN"
+    "country_iso_alpha2": "MN",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B3",
+    "unicode": "U+1F1F2 U+1F1F3"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddea",
     "country_name": "Montenegro",
-    "country_iso_alpha2": "ME"
+    "country_iso_alpha2": "ME",
+    "utf8": "F0 9F 87 B2 F0 9F 87 AA",
+    "unicode": "U+1F1F2 U+1F1EA"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf8",
     "country_name": "Montserrat",
-    "country_iso_alpha2": "MS"
+    "country_iso_alpha2": "MS",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B8",
+    "unicode": "U+1F1F2 U+1F1F8"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\udde6",
     "country_name": "Morocco",
-    "country_iso_alpha2": "MA"
+    "country_iso_alpha2": "MA",
+    "utf8": "F0 9F 87 B2 F0 9F 87 A6",
+    "unicode": "U+1F1F2 U+1F1E6"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddff",
     "country_name": "Mozambique",
-    "country_iso_alpha2": "MZ"
+    "country_iso_alpha2": "MZ",
+    "utf8": "F0 9F 87 B2 F0 9F 87 BF",
+    "unicode": "U+1F1F2 U+1F1FF"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf2",
     "country_name": "Myanmar",
-    "country_iso_alpha2": "MM"
+    "country_iso_alpha2": "MM",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B2",
+    "unicode": "U+1F1F2 U+1F1F2"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\udde6",
     "country_name": "Namibia",
-    "country_iso_alpha2": "NA"
+    "country_iso_alpha2": "NA",
+    "utf8": "F0 9F 87 B3 F0 9F 87 A6",
+    "unicode": "U+1F1F3 U+1F1E6"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddf7",
     "country_name": "Nauru",
-    "country_iso_alpha2": "NR"
+    "country_iso_alpha2": "NR",
+    "utf8": "F0 9F 87 B3 F0 9F 87 B7",
+    "unicode": "U+1F1F3 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddf5",
     "country_name": "Nepal",
-    "country_iso_alpha2": "NP"
+    "country_iso_alpha2": "NP",
+    "utf8": "F0 9F 87 B3 F0 9F 87 B5",
+    "unicode": "U+1F1F3 U+1F1F5"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddf1",
     "country_name": "Netherlands",
-    "country_iso_alpha2": "NL"
+    "country_iso_alpha2": "NL",
+    "utf8": "F0 9F 87 B3 F0 9F 87 B1",
+    "unicode": "U+1F1F3 U+1F1F1"
   },
   {
     "flag": "",
     "country_name": "Netherlands Antilles",
-    "country_iso_alpha2": "AN"
+    "country_iso_alpha2": "AN",
+    "utf8": "",
+    "unicode": ""
   },
   {
     "flag": "\ud83c\uddf3\ud83c\udde8",
     "country_name": "New Caledonia",
-    "country_iso_alpha2": "NC"
+    "country_iso_alpha2": "NC",
+    "utf8": "F0 9F 87 B3 F0 9F 87 A8",
+    "unicode": "U+1F1F3 U+1F1E8"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddff",
     "country_name": "New Zealand",
-    "country_iso_alpha2": "NZ"
+    "country_iso_alpha2": "NZ",
+    "utf8": "F0 9F 87 B3 F0 9F 87 BF",
+    "unicode": "U+1F1F3 U+1F1FF"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddee",
     "country_name": "Nicaragua",
-    "country_iso_alpha2": "NI"
+    "country_iso_alpha2": "NI",
+    "utf8": "F0 9F 87 B3 F0 9F 87 AE",
+    "unicode": "U+1F1F3 U+1F1EE"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddea",
     "country_name": "Niger",
-    "country_iso_alpha2": "NE"
+    "country_iso_alpha2": "NE",
+    "utf8": "F0 9F 87 B3 F0 9F 87 AA",
+    "unicode": "U+1F1F3 U+1F1EA"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddec",
     "country_name": "Nigeria",
-    "country_iso_alpha2": "NG"
+    "country_iso_alpha2": "NG",
+    "utf8": "F0 9F 87 B3 F0 9F 87 AC",
+    "unicode": "U+1F1F3 U+1F1EC"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddfa",
     "country_name": "Niue",
-    "country_iso_alpha2": "NU"
+    "country_iso_alpha2": "NU",
+    "utf8": "F0 9F 87 B3 F0 9F 87 BA",
+    "unicode": "U+1F1F3 U+1F1FA"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddeb",
     "country_name": "Norfolk Island",
-    "country_iso_alpha2": "NF"
+    "country_iso_alpha2": "NF",
+    "utf8": "F0 9F 87 B3 F0 9F 87 AB",
+    "unicode": "U+1F1F3 U+1F1EB"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddf5",
     "country_name": "Northern Mariana Islands",
-    "country_iso_alpha2": "MP"
+    "country_iso_alpha2": "MP",
+    "utf8": "F0 9F 87 B2 F0 9F 87 B5",
+    "unicode": "U+1F1F2 U+1F1F5"
   },
   {
     "flag": "\ud83c\uddf3\ud83c\uddf4",
     "country_name": "Norway",
-    "country_iso_alpha2": "NO"
+    "country_iso_alpha2": "NO",
+    "utf8": "F0 9F 87 B3 F0 9F 87 B4",
+    "unicode": "U+1F1F3 U+1F1F4"
   },
   {
     "flag": "\ud83c\uddf4\ud83c\uddf2",
     "country_name": "Oman",
-    "country_iso_alpha2": "OM"
+    "country_iso_alpha2": "OM",
+    "utf8": "F0 9F 87 B4 F0 9F 87 B2",
+    "unicode": "U+1F1F4 U+1F1F2"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddf0",
     "country_name": "Pakistan",
-    "country_iso_alpha2": "PK"
+    "country_iso_alpha2": "PK",
+    "utf8": "F0 9F 87 B5 F0 9F 87 B0",
+    "unicode": "U+1F1F5 U+1F1F0"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddfc",
     "country_name": "Palau",
-    "country_iso_alpha2": "PW"
+    "country_iso_alpha2": "PW",
+    "utf8": "F0 9F 87 B5 F0 9F 87 BC",
+    "unicode": "U+1F1F5 U+1F1FC"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddf8",
     "country_name": "Palestinian Territory, Occupied",
-    "country_iso_alpha2": "PS"
+    "country_iso_alpha2": "PS",
+    "utf8": "F0 9F 87 B5 F0 9F 87 B8",
+    "unicode": "U+1F1F5 U+1F1F8"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\udde6",
     "country_name": "Panama",
-    "country_iso_alpha2": "PA"
+    "country_iso_alpha2": "PA",
+    "utf8": "F0 9F 87 B5 F0 9F 87 A6",
+    "unicode": "U+1F1F5 U+1F1E6"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddec",
     "country_name": "Papua New Guinea",
-    "country_iso_alpha2": "PG"
+    "country_iso_alpha2": "PG",
+    "utf8": "F0 9F 87 B5 F0 9F 87 AC",
+    "unicode": "U+1F1F5 U+1F1EC"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddfe",
     "country_name": "Paraguay",
-    "country_iso_alpha2": "PY"
+    "country_iso_alpha2": "PY",
+    "utf8": "F0 9F 87 B5 F0 9F 87 BE",
+    "unicode": "U+1F1F5 U+1F1FE"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddea",
     "country_name": "Peru",
-    "country_iso_alpha2": "PE"
+    "country_iso_alpha2": "PE",
+    "utf8": "F0 9F 87 B5 F0 9F 87 AA",
+    "unicode": "U+1F1F5 U+1F1EA"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\udded",
     "country_name": "Philippines",
-    "country_iso_alpha2": "PH"
+    "country_iso_alpha2": "PH",
+    "utf8": "F0 9F 87 B5 F0 9F 87 AD",
+    "unicode": "U+1F1F5 U+1F1ED"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddf3",
     "country_name": "Pitcairn",
-    "country_iso_alpha2": "PN"
+    "country_iso_alpha2": "PN",
+    "utf8": "F0 9F 87 B5 F0 9F 87 B3",
+    "unicode": "U+1F1F5 U+1F1F3"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddf1",
     "country_name": "Poland",
-    "country_iso_alpha2": "PL"
+    "country_iso_alpha2": "PL",
+    "utf8": "F0 9F 87 B5 F0 9F 87 B1",
+    "unicode": "U+1F1F5 U+1F1F1"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddf9",
     "country_name": "Portugal",
-    "country_iso_alpha2": "PT"
+    "country_iso_alpha2": "PT",
+    "utf8": "F0 9F 87 B5 F0 9F 87 B9",
+    "unicode": "U+1F1F5 U+1F1F9"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddf7",
     "country_name": "Puerto Rico",
-    "country_iso_alpha2": "PR"
+    "country_iso_alpha2": "PR",
+    "utf8": "F0 9F 87 B5 F0 9F 87 B7",
+    "unicode": "U+1F1F5 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddf6\ud83c\udde6",
     "country_name": "Qatar",
-    "country_iso_alpha2": "QA"
+    "country_iso_alpha2": "QA",
+    "utf8": "F0 9F 87 B6 F0 9F 87 A6",
+    "unicode": "U+1F1F6 U+1F1E6"
   },
   {
     "flag": "\ud83c\uddf7\ud83c\uddf4",
     "country_name": "Romania",
-    "country_iso_alpha2": "RO"
+    "country_iso_alpha2": "RO",
+    "utf8": "F0 9F 87 B7 F0 9F 87 B4",
+    "unicode": "U+1F1F7 U+1F1F4"
   },
   {
     "flag": "\ud83c\uddf7\ud83c\uddfa",
     "country_name": "Russia",
-    "country_iso_alpha2": "RU"
+    "country_iso_alpha2": "RU",
+    "utf8": "F0 9F 87 B7 F0 9F 87 BA",
+    "unicode": "U+1F1F7 U+1F1FA"
   },
   {
     "flag": "\ud83c\uddf7\ud83c\uddfc",
     "country_name": "Rwanda",
-    "country_iso_alpha2": "RW"
+    "country_iso_alpha2": "RW",
+    "utf8": "F0 9F 87 B7 F0 9F 87 BC",
+    "unicode": "U+1F1F7 U+1F1FC"
   },
   {
     "flag": "\ud83c\uddf7\ud83c\uddea",
     "country_name": "Reunion",
-    "country_iso_alpha2": "RE"
+    "country_iso_alpha2": "RE",
+    "utf8": "F0 9F 87 B7 F0 9F 87 AA",
+    "unicode": "U+1F1F7 U+1F1EA"
   },
   {
     "flag": "\ud83c\udde7\ud83c\uddf1",
     "country_name": "Saint Barthelemy",
-    "country_iso_alpha2": "BL"
+    "country_iso_alpha2": "BL",
+    "utf8": "F0 9F 87 A7 F0 9F 87 B1",
+    "unicode": "U+1F1E7 U+1F1F1"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\udded",
     "country_name": "Saint Helena, Ascension and Tristan Da Cunha",
-    "country_iso_alpha2": "SH"
+    "country_iso_alpha2": "SH",
+    "utf8": "F0 9F 87 B8 F0 9F 87 AD",
+    "unicode": "U+1F1F8 U+1F1ED"
   },
   {
     "flag": "\ud83c\uddf0\ud83c\uddf3",
     "country_name": "Saint Kitts and Nevis",
-    "country_iso_alpha2": "KN"
+    "country_iso_alpha2": "KN",
+    "utf8": "F0 9F 87 B0 F0 9F 87 B3",
+    "unicode": "U+1F1F0 U+1F1F3"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\udde8",
     "country_name": "Saint Lucia",
-    "country_iso_alpha2": "LC"
+    "country_iso_alpha2": "LC",
+    "utf8": "F0 9F 87 B1 F0 9F 87 A8",
+    "unicode": "U+1F1F1 U+1F1E8"
   },
   {
     "flag": "\ud83c\uddf2\ud83c\uddeb",
     "country_name": "Saint Martin",
-    "country_iso_alpha2": "MF"
+    "country_iso_alpha2": "MF",
+    "utf8": "F0 9F 87 B2 F0 9F 87 AB",
+    "unicode": "U+1F1F2 U+1F1EB"
   },
   {
     "flag": "\ud83c\uddf5\ud83c\uddf2",
     "country_name": "Saint Pierre and Miquelon",
-    "country_iso_alpha2": "PM"
+    "country_iso_alpha2": "PM",
+    "utf8": "F0 9F 87 B5 F0 9F 87 B2",
+    "unicode": "U+1F1F5 U+1F1F2"
   },
   {
     "flag": "\ud83c\uddfb\ud83c\udde8",
     "country_name": "Saint Vincent and the Grenadines",
-    "country_iso_alpha2": "VC"
+    "country_iso_alpha2": "VC",
+    "utf8": "F0 9F 87 BB F0 9F 87 A8",
+    "unicode": "U+1F1FB U+1F1E8"
   },
   {
     "flag": "\ud83c\uddfc\ud83c\uddf8",
     "country_name": "Samoa",
-    "country_iso_alpha2": "WS"
+    "country_iso_alpha2": "WS",
+    "utf8": "F0 9F 87 BC F0 9F 87 B8",
+    "unicode": "U+1F1FC U+1F1F8"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf2",
     "country_name": "San Marino",
-    "country_iso_alpha2": "SM"
+    "country_iso_alpha2": "SM",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B2",
+    "unicode": "U+1F1F8 U+1F1F2"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf9",
     "country_name": "Sao Tome and Principe",
-    "country_iso_alpha2": "ST"
+    "country_iso_alpha2": "ST",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B9",
+    "unicode": "U+1F1F8 U+1F1F9"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\udde6",
     "country_name": "Saudi Arabia",
-    "country_iso_alpha2": "SA"
+    "country_iso_alpha2": "SA",
+    "utf8": "F0 9F 87 B8 F0 9F 87 A6",
+    "unicode": "U+1F1F8 U+1F1E6"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf3",
     "country_name": "Senegal",
-    "country_iso_alpha2": "SN"
+    "country_iso_alpha2": "SN",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B3",
+    "unicode": "U+1F1F8 U+1F1F3"
   },
   {
     "flag": "\ud83c\uddf7\ud83c\uddf8",
     "country_name": "Serbia",
-    "country_iso_alpha2": "RS"
+    "country_iso_alpha2": "RS",
+    "utf8": "F0 9F 87 B7 F0 9F 87 B8",
+    "unicode": "U+1F1F7 U+1F1F8"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\udde8",
     "country_name": "Seychelles",
-    "country_iso_alpha2": "SC"
+    "country_iso_alpha2": "SC",
+    "utf8": "F0 9F 87 B8 F0 9F 87 A8",
+    "unicode": "U+1F1F8 U+1F1E8"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf1",
     "country_name": "Sierra Leone",
-    "country_iso_alpha2": "SL"
+    "country_iso_alpha2": "SL",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B1",
+    "unicode": "U+1F1F8 U+1F1F1"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddec",
     "country_name": "Singapore",
-    "country_iso_alpha2": "SG"
+    "country_iso_alpha2": "SG",
+    "utf8": "F0 9F 87 B8 F0 9F 87 AC",
+    "unicode": "U+1F1F8 U+1F1EC"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf0",
     "country_name": "Slovakia",
-    "country_iso_alpha2": "SK"
+    "country_iso_alpha2": "SK",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B0",
+    "unicode": "U+1F1F8 U+1F1F0"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddee",
     "country_name": "Slovenia",
-    "country_iso_alpha2": "SI"
+    "country_iso_alpha2": "SI",
+    "utf8": "F0 9F 87 B8 F0 9F 87 AE",
+    "unicode": "U+1F1F8 U+1F1EE"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\udde7",
     "country_name": "Solomon Islands",
-    "country_iso_alpha2": "SB"
+    "country_iso_alpha2": "SB",
+    "utf8": "F0 9F 87 B8 F0 9F 87 A7",
+    "unicode": "U+1F1F8 U+1F1E7"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf4",
     "country_name": "Somalia",
-    "country_iso_alpha2": "SO"
+    "country_iso_alpha2": "SO",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B4",
+    "unicode": "U+1F1F8 U+1F1F4"
   },
   {
     "flag": "\ud83c\uddff\ud83c\udde6",
     "country_name": "South Africa",
-    "country_iso_alpha2": "ZA"
+    "country_iso_alpha2": "ZA",
+    "utf8": "F0 9F 87 BF F0 9F 87 A6",
+    "unicode": "U+1F1FF U+1F1E6"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf8",
     "country_name": "South Sudan",
-    "country_iso_alpha2": "SS"
+    "country_iso_alpha2": "SS",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B8",
+    "unicode": "U+1F1F8 U+1F1F8"
   },
   {
     "flag": "\ud83c\uddec\ud83c\uddf8",
     "country_name": "South Georgia and the South Sandwich Islands",
-    "country_iso_alpha2": "GS"
+    "country_iso_alpha2": "GS",
+    "utf8": "F0 9F 87 AC F0 9F 87 B8",
+    "unicode": "U+1F1EC U+1F1F8"
   },
   {
     "flag": "\ud83c\uddea\ud83c\uddf8",
     "country_name": "Spain",
-    "country_iso_alpha2": "ES"
+    "country_iso_alpha2": "ES",
+    "utf8": "F0 9F 87 AA F0 9F 87 B8",
+    "unicode": "U+1F1EA U+1F1F8"
   },
   {
     "flag": "\ud83c\uddf1\ud83c\uddf0",
     "country_name": "Sri Lanka",
-    "country_iso_alpha2": "LK"
+    "country_iso_alpha2": "LK",
+    "utf8": "F0 9F 87 B1 F0 9F 87 B0",
+    "unicode": "U+1F1F1 U+1F1F0"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\udde9",
     "country_name": "Sudan",
-    "country_iso_alpha2": "SD"
+    "country_iso_alpha2": "SD",
+    "utf8": "F0 9F 87 B8 F0 9F 87 A9",
+    "unicode": "U+1F1F8 U+1F1E9"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddf7",
     "country_name": "Suriname",
-    "country_iso_alpha2": "SR"
+    "country_iso_alpha2": "SR",
+    "utf8": "F0 9F 87 B8 F0 9F 87 B7",
+    "unicode": "U+1F1F8 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddef",
     "country_name": "Svalbard and Jan Mayen",
-    "country_iso_alpha2": "SJ"
+    "country_iso_alpha2": "SJ",
+    "utf8": "F0 9F 87 B8 F0 9F 87 AF",
+    "unicode": "U+1F1F8 U+1F1EF"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddff",
     "country_name": "Eswatini",
-    "country_iso_alpha2": "SZ"
+    "country_iso_alpha2": "SZ",
+    "utf8": "F0 9F 87 B8 F0 9F 87 BF",
+    "unicode": "U+1F1F8 U+1F1FF"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddea",
     "country_name": "Sweden",
-    "country_iso_alpha2": "SE"
+    "country_iso_alpha2": "SE",
+    "utf8": "F0 9F 87 B8 F0 9F 87 AA",
+    "unicode": "U+1F1F8 U+1F1EA"
   },
   {
     "flag": "\ud83c\udde8\ud83c\udded",
     "country_name": "Switzerland",
-    "country_iso_alpha2": "CH"
+    "country_iso_alpha2": "CH",
+    "utf8": "F0 9F 87 A8 F0 9F 87 AD",
+    "unicode": "U+1F1E8 U+1F1ED"
   },
   {
     "flag": "\ud83c\uddf8\ud83c\uddfe",
     "country_name": "Syrian Arab Republic",
-    "country_iso_alpha2": "SY"
+    "country_iso_alpha2": "SY",
+    "utf8": "F0 9F 87 B8 F0 9F 87 BE",
+    "unicode": "U+1F1F8 U+1F1FE"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddfc",
     "country_name": "Taiwan",
-    "country_iso_alpha2": "TW"
+    "country_iso_alpha2": "TW",
+    "utf8": "F0 9F 87 B9 F0 9F 87 BC",
+    "unicode": "U+1F1F9 U+1F1FC"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddef",
     "country_name": "Tajikistan",
-    "country_iso_alpha2": "TJ"
+    "country_iso_alpha2": "TJ",
+    "utf8": "F0 9F 87 B9 F0 9F 87 AF",
+    "unicode": "U+1F1F9 U+1F1EF"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddff",
     "country_name": "Tanzania, United Republic of Tanzania",
-    "country_iso_alpha2": "TZ"
+    "country_iso_alpha2": "TZ",
+    "utf8": "F0 9F 87 B9 F0 9F 87 BF",
+    "unicode": "U+1F1F9 U+1F1FF"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\udded",
     "country_name": "Thailand",
-    "country_iso_alpha2": "TH"
+    "country_iso_alpha2": "TH",
+    "utf8": "F0 9F 87 B9 F0 9F 87 AD",
+    "unicode": "U+1F1F9 U+1F1ED"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddf1",
     "country_name": "Timor-Leste",
-    "country_iso_alpha2": "TL"
+    "country_iso_alpha2": "TL",
+    "utf8": "F0 9F 87 B9 F0 9F 87 B1",
+    "unicode": "U+1F1F9 U+1F1F1"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddec",
     "country_name": "Togo",
-    "country_iso_alpha2": "TG"
+    "country_iso_alpha2": "TG",
+    "utf8": "F0 9F 87 B9 F0 9F 87 AC",
+    "unicode": "U+1F1F9 U+1F1EC"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddf0",
     "country_name": "Tokelau",
-    "country_iso_alpha2": "TK"
+    "country_iso_alpha2": "TK",
+    "utf8": "F0 9F 87 B9 F0 9F 87 B0",
+    "unicode": "U+1F1F9 U+1F1F0"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddf4",
     "country_name": "Tonga",
-    "country_iso_alpha2": "TO"
+    "country_iso_alpha2": "TO",
+    "utf8": "F0 9F 87 B9 F0 9F 87 B4",
+    "unicode": "U+1F1F9 U+1F1F4"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddf9",
     "country_name": "Trinidad and Tobago",
-    "country_iso_alpha2": "TT"
+    "country_iso_alpha2": "TT",
+    "utf8": "F0 9F 87 B9 F0 9F 87 B9",
+    "unicode": "U+1F1F9 U+1F1F9"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddf3",
     "country_name": "Tunisia",
-    "country_iso_alpha2": "TN"
+    "country_iso_alpha2": "TN",
+    "utf8": "F0 9F 87 B9 F0 9F 87 B3",
+    "unicode": "U+1F1F9 U+1F1F3"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddf7",
     "country_name": "Turkey",
-    "country_iso_alpha2": "TR"
+    "country_iso_alpha2": "TR",
+    "utf8": "F0 9F 87 B9 F0 9F 87 B7",
+    "unicode": "U+1F1F9 U+1F1F7"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddf2",
     "country_name": "Turkmenistan",
-    "country_iso_alpha2": "TM"
+    "country_iso_alpha2": "TM",
+    "utf8": "F0 9F 87 B9 F0 9F 87 B2",
+    "unicode": "U+1F1F9 U+1F1F2"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\udde8",
     "country_name": "Turks and Caicos Islands",
-    "country_iso_alpha2": "TC"
+    "country_iso_alpha2": "TC",
+    "utf8": "F0 9F 87 B9 F0 9F 87 A8",
+    "unicode": "U+1F1F9 U+1F1E8"
   },
   {
     "flag": "\ud83c\uddf9\ud83c\uddfb",
     "country_name": "Tuvalu",
-    "country_iso_alpha2": "TV"
+    "country_iso_alpha2": "TV",
+    "utf8": "F0 9F 87 B9 F0 9F 87 BB",
+    "unicode": "U+1F1F9 U+1F1FB"
   },
   {
     "flag": "\ud83c\uddfa\ud83c\uddec",
     "country_name": "Uganda",
-    "country_iso_alpha2": "UG"
+    "country_iso_alpha2": "UG",
+    "utf8": "F0 9F 87 BA F0 9F 87 AC",
+    "unicode": "U+1F1FA U+1F1EC"
   },
   {
     "flag": "\ud83c\uddfa\ud83c\udde6",
     "country_name": "Ukraine",
-    "country_iso_alpha2": "UA"
+    "country_iso_alpha2": "UA",
+    "utf8": "F0 9F 87 BA F0 9F 87 A6",
+    "unicode": "U+1F1FA U+1F1E6"
   },
   {
     "flag": "\ud83c\udde6\ud83c\uddea",
     "country_name": "United Arab Emirates",
-    "country_iso_alpha2": "AE"
+    "country_iso_alpha2": "AE",
+    "utf8": "F0 9F 87 A6 F0 9F 87 AA",
+    "unicode": "U+1F1E6 U+1F1EA"
   },
   {
     "flag": "\ud83c\uddec\ud83c\udde7",
     "country_name": "United Kingdom",
-    "country_iso_alpha2": "GB"
+    "country_iso_alpha2": "GB",
+    "utf8": "F0 9F 87 AC F0 9F 87 A7",
+    "unicode": "U+1F1EC U+1F1E7"
   },
   {
     "flag": "\ud83c\uddfa\ud83c\uddf8",
     "country_name": "United States",
-    "country_iso_alpha2": "US"
+    "country_iso_alpha2": "US",
+    "utf8": "F0 9F 87 BA F0 9F 87 B8",
+    "unicode": "U+1F1FA U+1F1F8"
   },
   {
     "flag": "\ud83c\uddfa\ud83c\uddfe",
     "country_name": "Uruguay",
-    "country_iso_alpha2": "UY"
+    "country_iso_alpha2": "UY",
+    "utf8": "F0 9F 87 BA F0 9F 87 BE",
+    "unicode": "U+1F1FA U+1F1FE"
   },
   {
     "flag": "\ud83c\uddfa\ud83c\uddff",
     "country_name": "Uzbekistan",
-    "country_iso_alpha2": "UZ"
+    "country_iso_alpha2": "UZ",
+    "utf8": "F0 9F 87 BA F0 9F 87 BF",
+    "unicode": "U+1F1FA U+1F1FF"
   },
   {
     "flag": "\ud83c\uddfb\ud83c\uddfa",
     "country_name": "Vanuatu",
-    "country_iso_alpha2": "VU"
+    "country_iso_alpha2": "VU",
+    "utf8": "F0 9F 87 BB F0 9F 87 BA",
+    "unicode": "U+1F1FB U+1F1FA"
   },
   {
     "flag": "\ud83c\uddfb\ud83c\uddea",
     "country_name": "Venezuela, Bolivarian Republic of Venezuela",
-    "country_iso_alpha2": "VE"
+    "country_iso_alpha2": "VE",
+    "utf8": "F0 9F 87 BB F0 9F 87 AA",
+    "unicode": "U+1F1FB U+1F1EA"
   },
   {
     "flag": "\ud83c\uddfb\ud83c\uddf3",
     "country_name": "Vietnam",
-    "country_iso_alpha2": "VN"
+    "country_iso_alpha2": "VN",
+    "utf8": "F0 9F 87 BB F0 9F 87 B3",
+    "unicode": "U+1F1FB U+1F1F3"
   },
   {
     "flag": "\ud83c\uddfb\ud83c\uddec",
     "country_name": "Virgin Islands, British",
-    "country_iso_alpha2": "VG"
+    "country_iso_alpha2": "VG",
+    "utf8": "F0 9F 87 BB F0 9F 87 AC",
+    "unicode": "U+1F1FB U+1F1EC"
   },
   {
     "flag": "\ud83c\uddfb\ud83c\uddee",
     "country_name": "Virgin Islands, U.S.",
-    "country_iso_alpha2": "VI"
+    "country_iso_alpha2": "VI",
+    "utf8": "F0 9F 87 BB F0 9F 87 AE",
+    "unicode": "U+1F1FB U+1F1EE"
   },
   {
     "flag": "\ud83c\uddfc\ud83c\uddeb",
     "country_name": "Wallis and Futuna",
-    "country_iso_alpha2": "WF"
+    "country_iso_alpha2": "WF",
+    "utf8": "F0 9F 87 BC F0 9F 87 AB",
+    "unicode": "U+1F1FC U+1F1EB"
   },
   {
     "flag": "\ud83c\uddfe\ud83c\uddea",
     "country_name": "Yemen",
-    "country_iso_alpha2": "YE"
+    "country_iso_alpha2": "YE",
+    "utf8": "F0 9F 87 BE F0 9F 87 AA",
+    "unicode": "U+1F1FE U+1F1EA"
   },
   {
     "flag": "\ud83c\uddff\ud83c\uddf2",
     "country_name": "Zambia",
-    "country_iso_alpha2": "ZM"
+    "country_iso_alpha2": "ZM",
+    "utf8": "F0 9F 87 BF F0 9F 87 B2",
+    "unicode": "U+1F1FF U+1F1F2"
   },
   {
     "flag": "\ud83c\uddff\ud83c\uddfc",
     "country_name": "Zimbabwe",
-    "country_iso_alpha2": "ZW"
+    "country_iso_alpha2": "ZW",
+    "utf8": "F0 9F 87 BF F0 9F 87 BC",
+    "unicode": "U+1F1FF U+1F1FC"
   }
 ]
